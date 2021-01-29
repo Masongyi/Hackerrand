@@ -1,1 +1,2 @@
-# Hackerrand
+# Code for Hackerrand challenge
+## Array 
